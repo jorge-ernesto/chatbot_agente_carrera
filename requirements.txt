@@ -1,0 +1,8 @@
+python-dotenv
+requests
+openai
+langchain
+langchain-openai
+groq
+streamlit
+pypdf

@@ -1,0 +1,6 @@
+• Backend Development - PHP / Laravel / CodeIgniter / Node.js / Express.js / Python / Django / Flask / FastAPI
+• Frontend development - JavaScript / React / SuiteScript
+• AI Engineering - LangChain / LangGraph / OpenAI Agents SDK / CrewAI / Orquestación de LLMs / Agentes IA / Aplicaciones con IA / RAG / ChromaDB / OpenAI / Claude / Gemini / Streamlit / Gradio / HuggingFace
+• DataScience - NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, Dash
+• Database - MySQL / PostgreSQL / SQLServer / Oracle
+• Knowledge in Development Agile
